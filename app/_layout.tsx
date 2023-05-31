@@ -23,6 +23,7 @@ export default function AppLayout() {
         options={{
           drawerLabel: "Tela B",
           title: "Tela B",
+          drawerItemStyle: { height: 0 }
         }}
       />
     </Drawer>
